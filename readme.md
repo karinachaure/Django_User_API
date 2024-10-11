@@ -23,7 +23,7 @@ Install necessary dependencies with requirements.txt
 ```
 Pull this project
 ```bash
-  git pull https://github.com/Dnyanesh-Bachhav/Django-User-API.git
+  git pull (https://github.com/karinachaure/Django_User_API.git)
 ```
 Switch to project directory
 ```bash
